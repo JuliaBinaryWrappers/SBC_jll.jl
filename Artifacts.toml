@@ -1,0 +1,81 @@
+[[SBC]]
+arch = "aarch64"
+git-tree-sha1 = "1bf79ac633f2a1e7ae9c8a61ed560822a0f596d6"
+libc = "glibc"
+os = "linux"
+
+    [[SBC.download]]
+    sha256 = "3abb3e3c5ae3a0653af866dcca8a75b1b98c8c2c59cbc2e63ed94befefb7e678"
+    url = "https://github.com/JuliaBinaryWrappers/SBC_jll.jl/releases/download/SBC-v1.4.0+0/SBC.v1.4.0.aarch64-linux-gnu.tar.gz"
+[[SBC]]
+arch = "aarch64"
+git-tree-sha1 = "a06d5eea5c9c21e7d788d4d66201e720931a3eac"
+libc = "musl"
+os = "linux"
+
+    [[SBC.download]]
+    sha256 = "f37a234c0eea959d30b88b864c5bd618669f903ac7db71326e6c64d40ad99b53"
+    url = "https://github.com/JuliaBinaryWrappers/SBC_jll.jl/releases/download/SBC-v1.4.0+0/SBC.v1.4.0.aarch64-linux-musl.tar.gz"
+[[SBC]]
+arch = "armv7l"
+git-tree-sha1 = "63faf4dc04aced66bc81282272f4a75dc1be9369"
+libc = "glibc"
+os = "linux"
+
+    [[SBC.download]]
+    sha256 = "f7b024161a9cc67ce299d0f33ede050ba71fee3abef380f3e0e294445e67f0b2"
+    url = "https://github.com/JuliaBinaryWrappers/SBC_jll.jl/releases/download/SBC-v1.4.0+0/SBC.v1.4.0.armv7l-linux-gnueabihf.tar.gz"
+[[SBC]]
+arch = "armv7l"
+git-tree-sha1 = "42bcf4eaef060008e9ae2a81a10541fe39a6be35"
+libc = "musl"
+os = "linux"
+
+    [[SBC.download]]
+    sha256 = "850e09b7a60244374c4e2ce761b5b0587d445980d243765702b0e929286a8843"
+    url = "https://github.com/JuliaBinaryWrappers/SBC_jll.jl/releases/download/SBC-v1.4.0+0/SBC.v1.4.0.armv7l-linux-musleabihf.tar.gz"
+[[SBC]]
+arch = "i686"
+git-tree-sha1 = "197965deed908b914839db2f50ef2c4343e0b0a9"
+libc = "glibc"
+os = "linux"
+
+    [[SBC.download]]
+    sha256 = "d8350636d4192028b470fe609e5c6b8182cee66dc0fab091d79ed3fb870a78c3"
+    url = "https://github.com/JuliaBinaryWrappers/SBC_jll.jl/releases/download/SBC-v1.4.0+0/SBC.v1.4.0.i686-linux-gnu.tar.gz"
+[[SBC]]
+arch = "i686"
+git-tree-sha1 = "541095b70651b227f999672b0a735c9ff8f84abb"
+libc = "musl"
+os = "linux"
+
+    [[SBC.download]]
+    sha256 = "f5c52d69567db5ae7f375d31833980ffe8777113817817324457e9dccdfa9181"
+    url = "https://github.com/JuliaBinaryWrappers/SBC_jll.jl/releases/download/SBC-v1.4.0+0/SBC.v1.4.0.i686-linux-musl.tar.gz"
+[[SBC]]
+arch = "powerpc64le"
+git-tree-sha1 = "d665166b6afcf0e8f0292869c6a87a10d7a8f0ba"
+libc = "glibc"
+os = "linux"
+
+    [[SBC.download]]
+    sha256 = "7c5f975f030ab2f8c4d2e392a215ed334dc294e8d8ba4bde7d913af979a42617"
+    url = "https://github.com/JuliaBinaryWrappers/SBC_jll.jl/releases/download/SBC-v1.4.0+0/SBC.v1.4.0.powerpc64le-linux-gnu.tar.gz"
+[[SBC]]
+arch = "x86_64"
+git-tree-sha1 = "d6db7e2e8704274e26f1b790e0ed215741296972"
+libc = "glibc"
+os = "linux"
+
+    [[SBC.download]]
+    sha256 = "5def52a84227e4760f119dbf88c884afab9622652c102cd97ccc169533b78151"
+    url = "https://github.com/JuliaBinaryWrappers/SBC_jll.jl/releases/download/SBC-v1.4.0+0/SBC.v1.4.0.x86_64-linux-gnu.tar.gz"
+[[SBC]]
+arch = "x86_64"
+git-tree-sha1 = "6a425b4923356286bc1963d19f04162a811b6476"
+libc = "musl"
+os = "linux"
+
+    [[SBC.download]]
+    sha256 = "5462046aee572a0d2ce23badbf51f7e85b5538796de0508077e9567fa62abbc0"
+    url = "https://github.com/JuliaBinaryWrappers/SBC_jll.jl/releases/download/SBC-v1.4.0+0/SBC.v1.4.0.x86_64-linux-musl.tar.gz"
